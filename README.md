@@ -5,8 +5,8 @@ It is created as part of a learning assignment to understand the **basic structu
 
 ## 👤 About Me
 
-**Name:** Kartik Kumar Singh  
-**Role:** Learning Full Stack Developer | Social Media Manager | Tech Enthusiast  
+ Kartik Kumar Singh  
+ Learning Full Stack Developer | Social Media Manager | Tech Enthusiast  
 
 I am passionate about learning new technologies, love travelling, and enjoy video editing.  
 I have worked with a large CA community, managing social media and creating digital content.
